@@ -42,5 +42,5 @@ Captain energy on the football pitch ⚽ (yes, football, I'll die on that hill),
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ariv.2612@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arivunidhi-anna-arivan/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://arivunidhiaa.wixsite.com/portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)]((https://arivfolio.tech/))
 [![X](https://img.shields.io/badge/-@Ariv_2012-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Ariv_2012)
