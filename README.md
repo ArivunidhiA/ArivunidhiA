@@ -34,7 +34,9 @@ I think the best engineers understand both the code and the business problem. I 
 
 Captain energy on the football pitch ⚽ (yes, football, I'll die on that hill), gym regular, and always down for a debate about Premier League tactics or the superior form of caffeine.
 
-$ echo "You miss 100% of the shots you don't take."
+<div align="center">
+  <img src="100.png" alt="You miss 100% of the shots you don't take" width="600" />
+</div>
 
 ## Let's Connect
 
