@@ -26,7 +26,7 @@
 
 ## Background
 
-MS in Business Analytics from Northeastern. Previously built production systems at **Hyundai Motors** (vehicle telemetry at scale), **Serotonin** (Web3 Startup), **Crossroads** (serverless data pipelines on AWS) and BrightMinds Organization (current). AWS Certified Solutions Architect.
+MS in Business Analytics from Northeastern. Previously built production systems at **Hyundai Motors** (vehicle telemetry at scale), **Serotonin** (Web3 Startup), **Crossroads** (serverless data pipelines on AWS) and BrightMinds Organization (current).
 
 I think the best engineers understand both the code and the business problem. I bring both.
 
