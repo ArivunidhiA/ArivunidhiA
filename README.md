@@ -1,6 +1,6 @@
 # Hey, I'm Ariv 👋
 
-📍 **Alabama, US** | 🧠 **AI engineering · product · software** | 🛠️ **Building something every day** | ☕ **Powered by caffeine & curiosity**
+📍 **US** | 🧠 **AI engineering · product · software** | 🛠️ **Building something every day** | ☕ **Powered by caffeine & curiosity**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ArivunidhiA)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/ArivunidhiA)
